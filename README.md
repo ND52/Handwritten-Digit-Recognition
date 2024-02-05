@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Handwritten Digit recognition using the Modified National Institute of Standards and Technology (MINISTER) dataset
+Handwritten Digit recognition using the Modified National Institute of Standards and Technology (MINIST) dataset
